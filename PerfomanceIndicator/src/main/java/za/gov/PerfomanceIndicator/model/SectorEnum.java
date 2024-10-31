@@ -1,0 +1,16 @@
+package za.gov.PerfomanceIndicator.model;
+public enum SectorEnum {
+    ECONOMIC_INFRASTRUCTURE,
+    ECONOMY,
+    EDUCATION,
+    ENVIRONMENT,
+    HEALTH,
+    HUMAN_SETTLEMENTS,
+    INTERNATIONAL_RELATIONS,
+    PUBLIC_SERVICE,
+    RURAL,
+    SAFETY,
+    SKILLS,
+    SOCIAL_COHESION,
+    SOCIAL_PROTECTION;
+}
